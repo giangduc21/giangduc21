@@ -1,9 +1,9 @@
 ![info](7863362124aee1020dd1784a9f95a4ae.gif)
 # I'm giangnd, i love information technology
-## I will master: Python, hosting (1.5 year) - 2022
+## I will master: Python, database (1.5 year) - 2022
 PYTHON tháng (1,2,3,4,5,6,7,8,9,10) năm 2021
 
-HOSTING tháng (11,12) năm 2021. Tháng (1,2,3,4,5,6) năm 2022
+DATABASE tháng (11,12) năm 2021. Tháng (1,2,3,4,5,6) năm 2022
 ## I will pro: html, css, javascript (1 year)- 2023
 HTML tháng (7,8,9,10) năm 2022
 
